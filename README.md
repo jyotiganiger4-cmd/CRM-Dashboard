@@ -26,6 +26,8 @@ This project presents an interactive CRM Dashboard built using Power BI. The das
 
 ## Dataset
 Customer Personality Analysis Dataset from Kaggle.
+Dataset Link:
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 ## Dashboard Preview
 ![CRM Dashboard](Crm_dashboard.png)
