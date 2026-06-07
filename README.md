@@ -24,6 +24,21 @@ This project presents an interactive CRM Dashboard built using Power BI. The das
 - Interactive Filters and Slicers
 - Business Insights Dashboard
 
+## Key Insights
+- Revenue is concentrated among high-income customers.
+- Wine products generate the highest spending.
+- Customers aged 35–55 contribute the largest share of sales.
+- Campaign response rates vary across customer segments.
+
+## Skills Demonstrated
+- Power BI
+- DAX
+- Power Query
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+- Customer Analytics
+
 ## Dataset
 Customer Personality Analysis Dataset from Kaggle.
 Dataset Link:
